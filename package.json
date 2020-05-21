@@ -1,6 +1,6 @@
 {
   "name": "iran-cities-json",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "iran cities and counties exported as arrays",
   "main": "index.js",
   "scripts": {

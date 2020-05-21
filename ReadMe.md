@@ -32,3 +32,7 @@ Make sure to thank him ;)
 
 #### 1.0.0
 released based on v2.0 release of ahmadazizi's work
+
+#### 2.0.0
+
+removed numbered duplicate names of cities (ids are intact)
